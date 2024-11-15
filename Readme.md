@@ -2,7 +2,7 @@
 
 This project is a 3D printer breakout board designed to separate the printer's mainboard from the printer body, enabling easy body swaps and providing protection for the mainboard when printing in a heated chamber. 
 
-![Breakout Board](https://oshwlab.com/kodzghlyxd/3dp_breakout) <!-- Optional: Add a screenshot or diagram -->
+![Breakout Board](https://image.easyeda.com/pullimage/Oo4Clwk8QIaVtgFdxWmLuTd9zDaZsuNAJMEvD96q.jpeg) <!-- Optional: Add a screenshot or diagram -->
 
 ---
 
